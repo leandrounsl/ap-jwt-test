@@ -9,8 +9,8 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.argentina.programa.jwt.test</groupId>
-	<artifactId>jwt-test</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>ap-jwt-test</artifactId>
+	<version>1.0.0-SNAPSHOT</version>
 	<name>jwt-test</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
